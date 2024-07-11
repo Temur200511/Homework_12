@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    bottom: 3px;
+    background-color: green;
+    right: 65%;
+    color: azure;
+}
+
+h1{
+    margin: 10px 100px 20px 10px;
+    
+}
+
+.demo{
+    margin: 6px 100px 20px 10px;
+}
+
+.demo2{
+    margin: 6px 100px 20px 10px;
+}
+
+
+.right{
+    position: absolute;
+    top: 30px;
+    left: 37%;
+    bottom: 0px;
+    right: 10px;
+    background-color: white;
+    color: black;
+    
+    
+}
